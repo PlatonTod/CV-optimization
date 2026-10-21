@@ -1,0 +1,10 @@
+streamlit>=1.40
+pandas>=2.0
+openpyxl>=3.1
+pymupdf>=1.24
+python-docx>=1.1
+openai>=1.40
+pydantic>=2.0
+requests>=2.31
+tqdm>=4.66
+rapidocr_onnxruntime>=1.2   # OCR для PDF-сканов (можно убрать, тогда сканы уйдут на ручную проверку)
